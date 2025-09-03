@@ -1,4 +1,5 @@
 # IDS706_python_template
+[![Python Template for IDS706](https://github.com/Francoamigoa/IDS706_python_template/actions/workflows/main.yml/badge.svg)](https://github.com/Francoamigoa/IDS706_python_template/actions/workflows/main.yml)
 
 This repository contains my **first Python project skeleton** for the course **IDS706 - Data Engineering Systems**.  
 It was created by **Franco Amigo, PhD student in Population Health Sciences at Duke University**.
